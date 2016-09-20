@@ -4,14 +4,14 @@
 A **pangram**, or holoalphabetic sentence, includes every letter of the alphabet at least once. The most challenging pangrams are the ones with the fewest letters. *Here are a few of the best*
 
 Ordered List
-*1. First Item
-*2. Second Item
-*3. Third Item
+ 1. First Item
+ 2. Second Item
+ 3. Third Item
 
-Unordered List
-*First Item
-*Second Item
-*Third Item
+
+ *First Item
+ *Second Item
+ *Third Item
 
 Table
 
